@@ -1,0 +1,1 @@
+{"name":"tropicalbathroom","version":"1.0.0","private":true,"description":"Tropical Bathroom — London bathroom renovation website","scripts":{"dev":"python3 -m http.server 4173 --bind 127.0.0.1","check":"node --check script.js"}}
